@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test-course/image2.png
+file: /media/courses/178-test-course-123-summer-2023/image2.png
 file_type: image/png
 image_metadata:
   caption: ''
