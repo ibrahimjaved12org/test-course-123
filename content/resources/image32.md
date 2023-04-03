@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/178-test-course-123-summer-2023/image4.png
+file: /media/courses/178-test-course-123-summer-2023/image32.png
 file_type: image/png
 image_metadata:
   caption: ''
@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: image4.png
-uid: 03a952ca-c105-4670-97b5-2b769aeb75bc
+title: image3.png
+uid: eb89cf49-4153-4e2b-b056-196070665644
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
