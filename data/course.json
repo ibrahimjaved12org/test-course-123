@@ -1,0 +1,31 @@
+{
+  "term": "Summer",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-course"
+  },
+  "course_title": "test-course-123",
+  "course_description": "test course",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "178",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-course"
+  },
+  "learning_resource_types": [],
+  "site_uid": "938ace68-1aa1-4ef5-b751-37102d4e4490",
+  "site_short_id": "test-course-123"
+}
